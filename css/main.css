@@ -981,9 +981,9 @@ body {
   background-color: hsl(12 88% 69% / var(--tw-bg-opacity, 1));
 }
 
-.hover\:bg-gray-300:hover {
+.hover\:bg-gray-900:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(209 213 219 / var(--tw-bg-opacity, 1));
+  background-color: rgb(17 24 39 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:text-brightRed:hover {
