@@ -966,7 +966,6 @@ body {
 
 .hamburger-bottom {
   transform: translateY(14px);
-  color: inherit;
 }
 
 .open {
